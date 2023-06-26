@@ -9,4 +9,4 @@ Sou o Lucas, um desenvolvedor focado em front-end, desenvolvo principalmente apl
 
 ![LucasLfs2004 GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasLfs2004&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLfs2004&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLfs2004&layout=compact&show_icons=true&theme=transparent)
